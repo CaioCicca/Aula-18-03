@@ -1,9 +1,9 @@
 export const user = {
-  name: "Felipe Santos",
-  email: "felipesantos@dev.com",
-  phone: "1999999999",
+  name: "Caio Ciccarelli",
+  email: "ciccarelli.ca@gmail.com",
+  phone: "19988992412",
   address: {
-    city: "Valinhos",
+    city: "Campinas",
     state: "São Paulo",
   },
 };
